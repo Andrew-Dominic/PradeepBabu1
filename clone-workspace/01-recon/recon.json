@@ -1,0 +1,51 @@
+{
+  "targetUrl": "https://jjettas.com/",
+  "scrollLibrary": "Lenis",
+  "animationLibraries": ["GSAP", "Lottie-web", "CSS Keyframes"],
+  "webgl": {
+    "engine": "Three.js r174",
+    "components": [
+      {
+        "name": "JJHero3D",
+        "description": "Depth-displaced 3D portrait of Justin Jefferson with custom shader blending sunglasses lens reflection video/texture, Oakley logo, and interactive mouse parallax + scroll dive into sunglasses lens.",
+        "assets": [
+          "/3d-hero/textures/diffuse.webp",
+          "/3d-hero/textures/depth.webp",
+          "/3d-hero/textures/alpha.png",
+          "/3d-hero/textures/reflection-2.png",
+          "/3d-hero/textures/shades-reflection-1.png",
+          "/3d-hero/textures/shades-logo.png",
+          "/3d-hero/textures/reflection.mp4"
+        ]
+      },
+      {
+        "name": "DepthSlide",
+        "description": "2.5D depth-map parallax shader for interactive cleats, partnerships (Under Armour, Oakley, Raising Cane's), and Journal cards.",
+        "assets": [
+          "/on-field/cleats/cleat-gold-3d.webp",
+          "/on-field/cleats/cleat-gold-depth.png",
+          "/placeholders/partnerships-carousel-ua-3d.webp",
+          "/placeholders/partnerships-carousel-ua-depth.png",
+          "/placeholders/partnerships-carousel-oakley-3d.webp",
+          "/placeholders/partnerships-carousel-oakley-depth.png"
+        ]
+      }
+    ]
+  },
+  "audioEngine": {
+    "engine": "Web Audio API",
+    "assets": [
+      "/audio/bed.m4a",
+      "/audio/drums.m4a",
+      "/audio/hover.m4a",
+      "/audio/click.m4a",
+      "/audio/transition.m4a",
+      "/audio/reveal.m4a",
+      "/audio/card-hover.m4a",
+      "/audio/card-in.m4a",
+      "/audio/slide.m4a",
+      "/audio/toggle-on.m4a",
+      "/audio/toggle-off.m4a"
+    ]
+  }
+}

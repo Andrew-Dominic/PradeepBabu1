@@ -1,0 +1,2694 @@
+{
+  "styles": [
+    "https://jjettas.com/_next/static/css/45e16fcee493412b.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+    "https://jjettas.com/_next/static/css/67646cfa69d02575.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+    "https://jjettas.com/_next/static/css/74dfde39aa20e327.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+    "https://jjettas.com/_next/static/css/2bb89909e898de94.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+    "https://use.typekit.net/asi3hwd.css",
+    "@media (hover: none) {\n        .menu-link:active .menu-link-lift { transform: translateY(-2px); }\n        .menu-link:active .menu-link-fill {\n          clip-path: polygon(0 -15%, 118% -15%, 100% 115%, 0 115%);\n          -webkit-clip-path: polygon(0 -15%, 118% -15%, 100% 115%, 0 115%);\n          transition-duration: 0.2s;\n        }\n      }\n      @media (max-width: 767px), (max-width: 900px) and (pointer: coarse) {\n        #site-navigation {\n          height: 100dvh;\n          overflow: hidden;\n  ",
+    "\n        [data-section=\"foundation\"] {\n          --fnd-h: clamp(44px, calc(10 * var(--vu)), 180px);\n          --fnd-pane: var(--fnd-host-h, 100svh);\n          --fnd-u: calc(var(--fnd-pane) / 100);\n        }\n        @media (max-width: 900px) and (pointer: coarse) {\n          [data-section=\"foundation\"] {\n            --fnd-h: clamp(48px, calc(19 * var(--pu)), 80px);\n            --fnd-pane: max(100svh, var(--min-h-phone));\n            --fnd-u: max(1svh, calc(var(--min-h-phone) / 100));\n          }\n",
+    "@keyframes jj-partner-marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media (prefers-reduced-motion: reduce){.jj-partner-marquee{animation:none !important}}",
+    "\n        [data-section=\"make-a-play\"] {\n          --play-h: clamp(28px, calc(10 * var(--vu)), 256px);\n          --mp-gap: clamp(28px, 3vw, 60px);\n          --mp-u: max(1vh, calc(var(--min-h) / 100));\n          --mp-min-h: max(min(100svh, calc(var(--page-w) / 1.6)), var(--min-h));\n        }\n        [data-section=\"make-a-play\"] [data-mp-frame] { --mp-card-h: var(--mp-h); --mp-card-w: calc(var(--mp-h) * 3 / 4); }\n        @media (max-width: 767px), (max-width: 900px) and (pointer: coarse) {\n        ",
+    "\n        [data-footer-invitation]{opacity:0;transition:opacity 800ms var(--ease-editorial)}\n        [data-footer-invitation=\"true\"]{opacity:1}\n        @media (prefers-reduced-motion: reduce){\n          [data-footer-invitation]{transition:none}\n        }\n        @media (max-width: 900px) and (pointer: coarse){\n          [data-footer]{--mark-scale:0.55}\n          /* Approach smoothing lives in globals.css so all page layers\n             share the same footer timing. */\n        }\n      ",
+    "@keyframes jj-partner-marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media (prefers-reduced-motion: reduce){.jj-partner-marquee{animation:none !important}}"
+  ],
+  "imgs": [
+    {
+      "src": "/_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1200&q=75",
+      "srcset": "/_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=640&q=75 640w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=750&q=75 750w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=828&q=75 828w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1080&q=75 1080w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1200&q=75 1200w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1920&q=75 1920w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=2048&q=75 2048w, /_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=3840&q=75 3840w",
+      "alt": "",
+      "className": "absolute -bottom-[6%] left-1/2 h-[83%] w-auto max-w-none -translate-x-1/2 md:-bottom-[6%] md:h-[98%]",
+      "width": 1225,
+      "height": 882
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75 2x",
+      "alt": "",
+      "className": "h-full w-full object-cover",
+      "width": 144,
+      "height": 211
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75 3840w",
+      "alt": "The Peach Bowl",
+      "className": "object-cover",
+      "width": 230,
+      "height": 338
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=256&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=3840&q=75 3840w",
+      "alt": "Single Season Record",
+      "className": "object-cover",
+      "width": 230,
+      "height": 331
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=256&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=3840&q=75 3840w",
+      "alt": "The Catch",
+      "className": "object-cover",
+      "width": 230,
+      "height": 338
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Offensive Player of the Year",
+      "className": "object-cover",
+      "width": 230,
+      "height": 336
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Pro Bowl Selection",
+      "className": "object-cover",
+      "width": 230,
+      "height": 346
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75 3840w",
+      "alt": "",
+      "className": "object-cover",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=3840&q=75 3840w",
+      "alt": "",
+      "className": "object-cover",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson",
+      "className": "object-cover",
+      "width": 350,
+      "height": 483
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson",
+      "className": "object-cover",
+      "width": 350,
+      "height": 483
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson",
+      "className": "object-cover",
+      "width": 350,
+      "height": 483
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin with campers on the field",
+      "className": "object-cover",
+      "width": 749,
+      "height": 478
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Young athletes at the camp",
+      "className": "object-cover",
+      "width": 749,
+      "height": 478
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson handing a young girl a backpack at the JJets Foundation Backpack Drive",
+      "className": "object-cover",
+      "width": 749,
+      "height": 478
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin doing the griddy at youth camp",
+      "className": "object-cover",
+      "width": 749,
+      "height": 478
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson with volunteers and families at the JJets Foundation Turkey Drive",
+      "className": "object-cover",
+      "width": 910,
+      "height": 478
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin with campers on the field",
+      "className": "object-cover",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Young athletes at the camp",
+      "className": "object-cover",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson handing a young girl a backpack at the JJets Foundation Backpack Drive",
+      "className": "object-cover",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin doing the griddy at youth camp",
+      "className": "object-cover",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson with volunteers and families at the JJets Foundation Turkey Drive",
+      "className": "object-cover",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "object-contain",
+      "width": 1382,
+      "height": 778
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin in the retro Gatorade track jacket on Up & Adams",
+      "className": "object-cover",
+      "width": 385,
+      "height": 487
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson in profile, purple Gatorade sweat beading",
+      "className": "object-cover",
+      "width": 399,
+      "height": 504
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson in the blue Pepsi jumpsuit",
+      "className": "object-contain object-bottom",
+      "width": 1266,
+      "height": 958
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin Jefferson's General Mills cereal boxes — Cinnamon Toast Crunch, Jettas Mix, and Griddy Toast Crunch",
+      "className": "object-contain object-bottom",
+      "width": 1440,
+      "height": 1008
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "object-contain object-bottom",
+      "width": 1440,
+      "height": 1008
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Crystal-studded Beats Studio headphones with white sherpa ear cushions",
+      "className": "object-contain object-bottom",
+      "width": 1440,
+      "height": 1008
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "All-hands at UA HQ",
+      "className": "object-cover",
+      "width": 281,
+      "height": 380
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "White on white, road game",
+      "className": "object-cover",
+      "width": 349,
+      "height": 470
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris, all white",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin in a sparkly suit",
+      "className": "object-cover",
+      "width": 362,
+      "height": 488
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "JJets camp days",
+      "className": "object-cover",
+      "width": 295,
+      "height": 398
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Suited for the honors",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Big in Shanghai",
+      "className": "object-cover",
+      "width": 268,
+      "height": 362
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "On set with Pepsi",
+      "className": "object-cover",
+      "width": 322,
+      "height": 434
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Tuileries, off duty",
+      "className": "object-cover",
+      "width": 281,
+      "height": 380
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Touchdown, U.S. Bank",
+      "className": "object-cover",
+      "width": 349,
+      "height": 470
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris tailoring",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris streets",
+      "className": "object-cover",
+      "width": 362,
+      "height": 488
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Rain check, Paris",
+      "className": "object-cover",
+      "width": 295,
+      "height": 398
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Maracanã moment",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Death Valley nights",
+      "className": "object-cover",
+      "width": 268,
+      "height": 362
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Tokyo drip",
+      "className": "object-cover",
+      "width": 322,
+      "height": 434
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "All-hands at UA HQ",
+      "className": "object-cover",
+      "width": 281,
+      "height": 380
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "White on white, road game",
+      "className": "object-cover",
+      "width": 349,
+      "height": 470
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris, all white",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Justin in a sparkly suit",
+      "className": "object-cover",
+      "width": 362,
+      "height": 488
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "JJets camp days",
+      "className": "object-cover",
+      "width": 295,
+      "height": 398
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Suited for the honors",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Big in Shanghai",
+      "className": "object-cover",
+      "width": 268,
+      "height": 362
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "On set with Pepsi",
+      "className": "object-cover",
+      "width": 322,
+      "height": 434
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Tuileries, off duty",
+      "className": "object-cover",
+      "width": 281,
+      "height": 380
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Touchdown, U.S. Bank",
+      "className": "object-cover",
+      "width": 349,
+      "height": 470
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris tailoring",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Paris streets",
+      "className": "object-cover",
+      "width": 362,
+      "height": 488
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Rain check, Paris",
+      "className": "object-cover",
+      "width": 295,
+      "height": 398
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Maracanã moment",
+      "className": "object-cover",
+      "width": 308,
+      "height": 416
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Death Valley nights",
+      "className": "object-cover",
+      "width": 268,
+      "height": 362
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+      "srcset": null,
+      "alt": "Tokyo drip",
+      "className": "object-cover",
+      "width": 322,
+      "height": 434
+    },
+    {
+      "src": "/_next/image?url=%2Fsvg%2Fquotes.svg&w=256&q=75",
+      "currentSrc": "https://jjettas.com/_next/image?url=%2Fsvg%2Fquotes.svg&w=128&q=75",
+      "srcset": "/_next/image?url=%2Fsvg%2Fquotes.svg&w=128&q=75 1x, /_next/image?url=%2Fsvg%2Fquotes.svg&w=256&q=75 2x",
+      "alt": "",
+      "className": "mx-auto h-auto",
+      "width": 101,
+      "height": 36
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Under Armour",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 60,
+      "height": 38
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Gatorade",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 72,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Pepsi",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 45,
+      "height": 45
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "General Mills",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 68,
+      "height": 58
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Oakley",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 99,
+      "height": 52
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Raising Cane's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 81,
+      "height": 81
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Beats by Dre",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 46,
+      "height": 46
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Lowe's",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 92,
+      "height": 41
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "U.S. Bank",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 127,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "EA Sports",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 71,
+      "height": 49
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Little Caesars",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 145,
+      "height": 37
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Abercrombie & Fitch",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 91,
+      "height": 33
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Sleep Number",
+      "className": "h-full w-auto max-w-none object-contain",
+      "width": 199,
+      "height": 32
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/820d4fda57f8011ebc924d4f118cb8c0ac5e4aaa-1216x1600.webp?w=1600&fit=max&auto=format&q=80",
+      "currentSrc": "",
+      "srcset": null,
+      "alt": "Justin Jefferson in his Vikings helmet",
+      "className": "h-full w-auto max-w-none object-contain object-bottom max-md:[transform:var(--cutout-shift-phone)] md:[transform:var(--cutout-shift)]",
+      "width": 684,
+      "height": 900
+    },
+    {
+      "src": "/_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=3840&q=75",
+      "currentSrc": "",
+      "srcset": "/_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=16&q=75 16w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=32&q=75 32w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=48&q=75 48w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=64&q=75 64w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=96&q=75 96w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=128&q=75 128w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=256&q=75 256w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=384&q=75 384w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=640&q=75 640w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=750&q=75 750w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=828&q=75 828w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=1080&q=75 1080w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=1200&q=75 1200w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=1920&q=75 1920w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=2048&q=75 2048w, /_next/image?url=%2Fon-field%2Fcleats%2Fcleat-gold-3d.webp&w=3840&q=75 3840w",
+      "alt": "",
+      "className": "object-contain",
+      "width": 84,
+      "height": 71
+    },
+    {
+      "src": "/on-field/cleats/cleat-gold-3d.webp",
+      "currentSrc": "https://jjettas.com/on-field/cleats/cleat-gold-3d.webp",
+      "srcset": null,
+      "alt": "",
+      "className": "",
+      "width": 780,
+      "height": 660
+    }
+  ],
+  "videos": [
+    {
+      "tag": "VIDEO",
+      "src": "https://vz-e818877b-c14.b-cdn.net/67930c38-9688-44a9-a18c-abdd33993820/play_1080p.mp4#sanity=zil8k06j/production/7fa83d5c29e25cda0579fd884b811805dc089054.mp4",
+      "type": null
+    }
+  ],
+  "svgsCount": 49,
+  "scripts": [
+    {
+      "src": "https://jjettas.com/_next/static/chunks/0d14bdd1-3bec56f9b9baa24b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/8520-856c1490749434f9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/main-app-f37018172483eadc.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/app/global-error-ac3fd5fb554214b6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/04763798-36acad43bdd072cf.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/1066-f34e92c63c017589.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/6899-faa21eb8eac2e60b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/7366-bededf74d63a7502.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/2706-e8acf2942438b369.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/8703-9eaa821f68fb4165.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/7428-03d6e51e29634041.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/5444-d0f9e4e7643c5080.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/8436-aafeb1c31452b2ac.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/9163-e7dc68996e292818.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/7396-690d4abd0ef86b4a.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/9692-d72fb71e3510e0d6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/app/page-4f1c82724a3ef243.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/7502-4259b4d29ce12620.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/8556-60bf55eff6ea30c5.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/app/layout-9968815d10758b1d.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/app/error-52ec9055207ebe92.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/app/not-found-82281d5ce2cd078c.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "try{if('scrollRestoration' in history){history.scrollRestoration='manual'}window.scrollTo(0,0);addEventListener('pageshow',function(e){if(e.persisted){window.scrollTo(0,0)}})}catch(e){}"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "(function(){\nvar STALL_MS=8000;\nvar HINT=/[#&]sanity=([a-z0-9]+\\/[a-z0-9_-]+\\/[a-f0-9]{40}\\.[a-z0-9]+)(?:&|$)/;\nvar failed=new Set(),errored=new Set(),timers=new WeakMap(),fed=new WeakMap(),moved=new WeakMap(),wants=new WeakMap(),seq=0;\nvar proto=typeof HTMLMediaElement===\"function\"&&HTMLMediaElement.prototype,play=proto&&proto.play;\nfunction source(v){return v.getAttribute(\"src\")||v.currentSrc||\"\"}\nfunction fileOf(src){return src.split(\"#\")[0]}\nfunction fallbackOf(src){var i=src.indexOf(\"#\"),m=i<0?null:HINT.exec(src.slice(i));return m?\"https://cdn.sanity.io/files/\"+m[1]:null}\nfunction asVideo(t){return t&&t.nodeName===\"VIDEO\"?t:null}\nfunction useSanity(v,src,to){\nclearTimeout(timers.get(v));failed.add(fileOf(src));\nvar time=v.currentTime||0,resume=!v.paused||v.autoplay||wants.get(v)>0,move={from:src,at:++seq,play:null};\nmoved.set(v,move);\nv.src=to;\nif(time>0)v.addEventListener(\"loadedmetadata\",function(){try{v.currentTime=time}catch(e){}},{once:true});\nif(resume){var p=(play||v.play)."
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "(()=>{function ready(e){const link=e.target;if(!link||link.id!=='jj-adobe-fonts')return;if(e.type==='load')link.media='all';document.removeEventListener('load',ready,true);document.removeEventListener('error',ready,true)}document.addEventListener('load',ready,true);document.addEventListener('error',ready,true)})()"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "application/ld+json",
+      "text": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://jjettas.com/#website\",\"url\":\"https://jjettas.com\",\"name\":\"Justin Jefferson\",\"description\":\"Justin Jefferson, wide receiver for the Minnesota Vikings. Records, career stats, partnerships, the JJets Foundation and his journal.\",\"inLanguage\":\"en-US\",\"publisher\":{\"@id\":\"https://jjettas.com/#person\"},\"about\":{\"@id\":\"https://jjettas.com/#person\"}},{\"@type\":\"Person\",\"@id\":\"https://jjettas.com/#person\",\"name\":\"Justin Jefferson\",\"url\":\"https://jjettas.com\",\"image\":\"https://cdn.sanity.io/images/zil8k06j/production/8a17458659657f1be947c1f492d86275851af81b-1200x630.png\",\"jobTitle\":\"Wide receiver\",\"memberOf\":{\"@type\":\"SportsTeam\",\"name\":\"Minnesota Vikings\"},\"sameAs\":[\"https://instagram.com/jjettas2\",\"https://tiktok.com/@jjettas\",\"https://x.com/JJettas2\",\"https://www.twitch.tv/jjettas18\",\"https://en.wikipedia.org/wiki/Justin_Jefferson\"]}]}"
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_vercel/insights/script.js",
+      "id": "",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "https://jjettas.com/_next/static/chunks/webpack-6dce4f512d431e03.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "id": "_R_",
+      "type": "",
+      "text": ""
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "(self.__next_f=self.__next_f||[]).push([0])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n4:I[19689,[],\\\"OutletBoundary\\\"]\\n6:I[62980,[],\\\"AsyncMetadataOutlet\\\"]\\n8:I[19689,[],\\\"ViewportBoundary\\\"]\\na:I[19689,[],\\\"MetadataBoundary\\\"]\\nb:\\\"$Sreact.suspense\\\"\\nd:I[69766,[\\\"4219\\\",\\\"static/chunks/app/global-error-ac3fd5fb554214b6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\"],\\\"default\\\"]\\n:HL[\\\"/_next/static/media/0ad3faa61cd26fd6-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/34310d7f0559b2f8-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/45f4bf9bd5d902fa-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/c39007f2e37cc928-s.p.otf\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/otf\\\"}]\\n:HL[\\\"/_next/static/css/45e16fcee493412b.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/67646cfa69d02575.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"style\\\"]\\n:HL[\\\"/_next/stat"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"LkwPfYkk22673GvgUkbxu\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"index\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/45e16fcee493412b.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/67646cfa69d02575.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/74dfde39aa20e327.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],\\\"$L2\\\"]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[\\\"$L3\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\""
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"9:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"content\\\":\\\"#0B0A0F\\\"}]]\\n5:null\\n\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"e:I[19964,[],\\\"IconMark\\\"]\\n\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"7:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Justin Jefferson\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Justin Jefferson, wide receiver for the Minnesota Vikings. Records, career stats, partnerships, the JJets Foundation and his journal.\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"manifest\\\",\\\"href\\\":\\\"/manifest.webmanifest\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"3\\\",{\\\"rel\\\":\\\"canonical\\\",\\\"href\\\":\\\"https://jjettas.com\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"property\\\":\\\"og:title\\\",\\\"content\\\":\\\"Justin Jefferson\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"property\\\":\\\"og:description\\\",\\\"content\\\":\\\"Justin Jefferson, wide receiver for the Minnesota Vikings. Records, career stats, partnerships, the JJets Foundation and his journal.\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"6\\\",{\\\"property\\\":\\\"og:url\\\",\\\"content\\\":\\\"https://jjettas.com\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"7\\\",{\\\"property\\\":\\\"og:site_name\\\",\\\"content\\\":\\\"Justin Jefferson\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"8\\\",{\\\"property\\\":\\\"og:loc"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"c:\\\"$7:metadata\\\"\\n\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"f:I[14040,[\\\"9701\\\",\\\"static/chunks/04763798-36acad43bdd072cf.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"5805\\\",\\\"static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"1066\\\",\\\"static/chunks/1066-f34e92c63c017589.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2989\\\",\\\"static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"6899\\\",\\\"static/chunks/6899-faa21eb8eac2e60b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7366\\\",\\\"static/chunks/7366-bededf74d63a7502.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2706\\\",\\\"static/chunks/2706-e8acf2942438b369.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"8703\\\",\\\"static/chunks/8703-9eaa821f68fb4165.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7428\\\",\\\"static/chunks/7428-03d6e51e29634041.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"5444\\\",\\\"static/chunks/5444-d0f9e4e7643c5080.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"8436\\\",\\\"static/chunks/8436-aafeb1c31452b2ac.js?dpl=dpl_B6r43D1sg9kPDL"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"3:[\\\"$\\\",\\\"$Lf\\\",null,{\\\"featuredPartnerships\\\":[{\\\"_id\\\":\\\"partnership.under-armour\\\",\\\"brandLogoAlt\\\":\\\"Under Armour\\\",\\\"brandLogoUrl\\\":\\\"https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png\\\",\\\"category\\\":\\\"Fashion\\\",\\\"description\\\":\\\"The signature partnership. Justin is the face of Under Armour football — custom game-day cleats, design sessions at UA headquarters in Baltimore, and a say in where the footwear goes next.\\\",\\\"externalLink\\\":null,\\\"heroImageAlt\\\":\\\"Under Armour\\\",\\\"heroImageUrl\\\":\\\"https://cdn.sanity.io/images/zil8k06j/production/ac5710872c7f703f0a4f7d887ad30a6dd280fcdd-1200x1600.webp\\\",\\\"homeHero\\\":\\\"custom\\\",\\\"name\\\":\\\"Under Armour\\\",\\\"slug\\\":\\\"under-armour\\\",\\\"videoFirst\\\":false,\\\"videoUrl\\\":\\\"https://vz-e818877b-c14.b-cdn.net/a6226ad6-724a-4beb-8923-f021bc92c1d0/play_480p.mp4#sanity=zil8k06j/production/5d99d34b3de3eea376a1b43e87679d5d3ed30081.mp4\\\",\\\"gallery\\\":[]},{\\\"_id\\\":\\\"partnership.gatorad"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"10:T9ac,\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"(function(){\\nvar STALL_MS=8000;\\nvar HINT=/[#\\u0026]sanity=([a-z0-9]+\\\\/[a-z0-9_-]+\\\\/[a-f0-9]{40}\\\\.[a-z0-9]+)(?:\\u0026|$)/;\\nvar failed=new Set(),errored=new Set(),timers=new WeakMap(),fed=new WeakMap(),moved=new WeakMap(),wants=new WeakMap(),seq=0;\\nvar proto=typeof HTMLMediaElement===\\\"function\\\"\\u0026\\u0026HTMLMediaElement.prototype,play=proto\\u0026\\u0026proto.play;\\nfunction source(v){return v.getAttribute(\\\"src\\\")||v.currentSrc||\\\"\\\"}\\nfunction fileOf(src){return src.split(\\\"#\\\")[0]}\\nfunction fallbackOf(src){var i=src.indexOf(\\\"#\\\"),m=i\\u003c0?null:HINT.exec(src.slice(i));return m?\\\"https://cdn.sanity.io/files/\\\"+m[1]:null}\\nfunction asVideo(t){return t\\u0026\\u0026t.nodeName===\\\"VIDEO\\\"?t:null}\\nfunction useSanity(v,src,to){\\nclearTimeout(timers.get(v));failed.add(fileOf(src));\\nvar time=v.currentTime||0,resume=!v.paused||v.autoplay||wants.get(v)\\u003e0,move={from:src,at:++seq,play:null};\\nmoved.set(v,move);\\nv.src=to;\\nif(time\\u003e0)v.addEventListener("
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"2:[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"__variable_cf619f __variable_b92fdb __variable_f728a0\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"try{if('scrollRestoration' in history){history.scrollRestoration='manual'}window.scrollTo(0,0);addEventListener('pageshow',function(e){if(e.persisted){window.scrollTo(0,0)}})}catch(e){}\\\"}}],[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"$10\\\"}}],[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"preconnect\\\",\\\"href\\\":\\\"https://use.typekit.net\\\",\\\"crossOrigin\\\":\\\"anonymous\\\"}],[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"(()=\\u003e{function ready(e){const link=e.target;if(!link||link.id!=='jj-adobe-fonts')return;if(e.type==='load')link.media='all';document.removeEventListener('load',ready,true);document.removeEventListener('error',ready,true)}document.addEventListener('load',ready,true);document.addEventListener('error"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"15:I[35119,[\\\"9701\\\",\\\"static/chunks/04763798-36acad43bdd072cf.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"5805\\\",\\\"static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"1066\\\",\\\"static/chunks/1066-f34e92c63c017589.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2989\\\",\\\"static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"6899\\\",\\\"static/chunks/6899-faa21eb8eac2e60b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7366\\\",\\\"static/chunks/7366-bededf74d63a7502.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2706\\\",\\\"static/chunks/2706-e8acf2942438b369.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7502\\\",\\\"static/chunks/7502-4259b4d29ce12620.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"9163\\\",\\\"static/chunks/9163-e7dc68996e292818.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"9692\\\",\\\"static/chunks/9692-d72fb71e3510e0d6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"8556\\\",\\\"static/chunks/8556-60bf55eff6ea30c5.js?dpl=dpl_B6r43D1sg9kPD"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"11:[\\\"$\\\",\\\"link\\\",null,{\\\"id\\\":\\\"jj-adobe-fonts\\\",\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"https://use.typekit.net/asi3hwd.css\\\",\\\"media\\\":\\\"print\\\",\\\"suppressHydrationWarning\\\":true}]\\n12:[\\\"$\\\",\\\"noscript\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"https://use.typekit.net/asi3hwd.css\\\"}]}]\\n\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"13:[\\\"$\\\",\\\"script\\\",null,{\\\"type\\\":\\\"application/ld+json\\\",\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"{\\\\\\\"@context\\\\\\\":\\\\\\\"https://schema.org\\\\\\\",\\\\\\\"@graph\\\\\\\":[{\\\\\\\"@type\\\\\\\":\\\\\\\"WebSite\\\\\\\",\\\\\\\"@id\\\\\\\":\\\\\\\"https://jjettas.com/#website\\\\\\\",\\\\\\\"url\\\\\\\":\\\\\\\"https://jjettas.com\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Justin Jefferson\\\\\\\",\\\\\\\"description\\\\\\\":\\\\\\\"Justin Jefferson, wide receiver for the Minnesota Vikings. Records, career stats, partnerships, the JJets Foundation and his journal.\\\\\\\",\\\\\\\"inLanguage\\\\\\\":\\\\\\\"en-US\\\\\\\",\\\\\\\"publisher\\\\\\\":{\\\\\\\"@id\\\\\\\":\\\\\\\"https://jjettas.com/#person\\\\\\\"},\\\\\\\"about\\\\\\\":{\\\\\\\"@id\\\\\\\":\\\\\\\"https://jjettas.com/#person\\\\\\\"}},{\\\\\\\"@type\\\\\\\":\\\\\\\"Person\\\\\\\",\\\\\\\"@id\\\\\\\":\\\\\\\"https://jjettas.com/#person\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Justin Jefferson\\\\\\\",\\\\\\\"url\\\\\\\":\\\\\\\"https://jjettas.com\\\\\\\",\\\\\\\"image\\\\\\\":\\\\\\\"https://cdn.sanity.io/images/zil8k06j/production/8a17458659657f1be947c1f492d86275851af81b-1200x630.png\\\\\\\",\\\\\\\"jobTitle\\\\\\\":\\\\\\\"Wide receiver\\\\\\\",\\\\\\\"memb"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"14:[\\\"$\\\",\\\"body\\\",null,{\\\"data-theme\\\":\\\"home\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L15\\\",null,{\\\"settings\\\":{\\\"ogImage\\\":{\\\"url\\\":\\\"https://cdn.sanity.io/images/zil8k06j/production/8a17458659657f1be947c1f492d86275851af81b-1200x630.png\\\",\\\"width\\\":1200,\\\"height\\\":630,\\\"alt\\\":\\\"Justin Jefferson\\\"},\\\"navLinks\\\":[{\\\"label\\\":\\\"Home\\\",\\\"href\\\":\\\"/\\\"},{\\\"label\\\":\\\"On-Field\\\",\\\"href\\\":\\\"/on-field\\\"},{\\\"label\\\":\\\"Off-Field\\\",\\\"href\\\":\\\"/off-field\\\"},{\\\"label\\\":\\\"Foundation\\\",\\\"href\\\":\\\"/foundation\\\"},{\\\"label\\\":\\\"Partnerships\\\",\\\"href\\\":\\\"/partnerships\\\"},{\\\"label\\\":\\\"Journal\\\",\\\"href\\\":\\\"/journal\\\"},{\\\"label\\\":\\\"Inquiries\\\",\\\"href\\\":\\\"/inquiries\\\"}],\\\"socialLinks\\\":[{\\\"platform\\\":\\\"instagram\\\",\\\"url\\\":\\\"https://instagram.com/jjettas2\\\"},{\\\"platform\\\":\\\"tiktok\\\",\\\"url\\\":\\\"https://tiktok.com/@jjettas\\\"},{\\\"platform\\\":\\\"x\\\",\\\"url\\\":\\\"https://x.com/JJettas2\\\"},{\\\"platform\\\":\\\"twitch\\\",\\\"url\\\":\\\"https://www.twitch.tv/jjettas18\\\"}],\\\"legalLinks\\\":[{\\\"label\\\":\\\"Privacy\\\",\\\"href\\\":\\\"/priv"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"18:I[53084,[],\\\"\\\"]\\n19:I[24888,[\\\"5805\\\",\\\"static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"8039\\\",\\\"static/chunks/app/error-52ec9055207ebe92.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\"],\\\"default\\\"]\\n1a:I[42442,[],\\\"\\\"]\\n1b:I[45146,[\\\"5805\\\",\\\"static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2989\\\",\\\"static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7502\\\",\\\"static/chunks/7502-4259b4d29ce12620.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"4345\\\",\\\"static/chunks/app/not-found-82281d5ce2cd078c.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\"],\\\"NotFoundPage\\\"]\\n\"])"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"1c:I[38168,[\\\"9701\\\",\\\"static/chunks/04763798-36acad43bdd072cf.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"5805\\\",\\\"static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"1066\\\",\\\"static/chunks/1066-f34e92c63c017589.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2989\\\",\\\"static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"6899\\\",\\\"static/chunks/6899-faa21eb8eac2e60b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7366\\\",\\\"static/chunks/7366-bededf74d63a7502.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"2706\\\",\\\"static/chunks/2706-e8acf2942438b369.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"7502\\\",\\\"static/chunks/7502-4259b4d29ce12620.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"9163\\\",\\\"static/chunks/9163-e7dc68996e292818.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"9692\\\",\\\"static/chunks/9692-d72fb71e3510e0d6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"8556\\\",\\\"static/chunks/8556-60bf55eff6ea30c5.js?dpl=dpl_B6r43D1sg9kPD"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "text": "self.__next_f.push([1,\"16:[\\\"$\\\",\\\"$L18\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$19\\\",\\\"errorStyles\\\":[],\\\"errorScripts\\\":[],\\\"template\\\":[\\\"$\\\",\\\"$L1a\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"$L1b\\\",null,{}],[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/329fd114aa7126d9.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]\\n17:[\\\"$\\\",\\\"$L1c\\\",null,{}]\\n\"])"
+    }
+  ],
+  "resources": [
+    {
+      "name": "https://jjettas.com/_next/static/media/0ad3faa61cd26fd6-s.p.woff2",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/media/34310d7f0559b2f8-s.p.woff2",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/media/45f4bf9bd5d902fa-s.p.woff2",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/media/c39007f2e37cc928-s.p.otf",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1080&q=75",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp&w=1080&q=75",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/css/45e16fcee493412b.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/css/67646cfa69d02575.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/css/74dfde39aa20e327.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/css/2bb89909e898de94.css?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/webpack-6dce4f512d431e03.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/0d14bdd1-3bec56f9b9baa24b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/8520-856c1490749434f9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/main-app-f37018172483eadc.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/app/global-error-ac3fd5fb554214b6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/5805-252b3af70eb630a9.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/04763798-36acad43bdd072cf.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/1066-f34e92c63c017589.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/2989-0e99ec0abece3fa3.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/6899-faa21eb8eac2e60b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/7366-bededf74d63a7502.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/2706-e8acf2942438b369.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/8703-9eaa821f68fb4165.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/5444-d0f9e4e7643c5080.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/7428-03d6e51e29634041.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/8436-aafeb1c31452b2ac.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/9163-e7dc68996e292818.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/7396-690d4abd0ef86b4a.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/9692-d72fb71e3510e0d6.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/app/page-4f1c82724a3ef243.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/7502-4259b4d29ce12620.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/8556-60bf55eff6ea30c5.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/app/error-52ec9055207ebe92.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/app/not-found-82281d5ce2cd078c.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/app/layout-9968815d10758b1d.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://use.typekit.net/asi3hwd.css",
+      "initiatorType": "link"
+    },
+    {
+      "name": "https://jjettas.com/textures/pebble.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/textures/light-03.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/svg/justin.svg",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/svg/jefferson.svg",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/textures/light-01.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/textures/grass.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/textures/paper-grain.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=128&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fb779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=96&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fd56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=96&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fb68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=384&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fa2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=256&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png%3Fw%3D512%26fit%3Dmax%26auto%3Dformat%26q%3D80&w=640&q=75",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/footer/light-04.webp",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/svg/logo.svg",
+      "initiatorType": "css"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=%2Fsvg%2Fquotes.svg&w=128&q=75",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/1354.17097ae9922caf73.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/audio/hover.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/click.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/transition.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/reveal.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/card-hover.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/card-in.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/slide.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/slide-2.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/slide-3.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/drag.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/toggle-on.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/toggle-off.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/tick.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/audio/power-on.m4a",
+      "initiatorType": "fetch"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/9366.2e5b201f40fa0210.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_vercel/insights/script.js",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/e6502385-35bdc7b9cb91d680.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/2a9a6835-eaf9e38b1cf5699f.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/7533.f07ccf9c3cd0cd4b.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/_next/static/chunks/364.3ebaa0dd265dff5c.js?dpl=dpl_B6r43D1sg9kPDLaRWJLRCWTPSzbq",
+      "initiatorType": "script"
+    },
+    {
+      "name": "https://jjettas.com/on-field/cleats/cleat-gold-3d.webp",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2F03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp&w=256&q=75",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzil8k06j%2Fproduction%2Fc2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp&w=256&q=75",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/_next/image?url=%2F3d-hero%2Fhero-portrait-mobile.webp&w=1200&q=75",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/on-field/cleats/cleat-gold-3d.webp",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/diffuse.webp",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/depth.webp",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/alpha.png",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/reflection-2.png",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/shades-logo.png",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/3d-hero/textures/shades-reflection-1.png",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/placeholders/partnerships-carousel-ua-3d.webp",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/on-field/cleats/cleat-gold-depth.png",
+      "initiatorType": "img"
+    },
+    {
+      "name": "https://jjettas.com/placeholders/partnerships-carousel-ua-depth.png",
+      "initiatorType": "img"
+    }
+  ]
+}

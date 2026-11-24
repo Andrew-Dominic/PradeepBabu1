@@ -1,0 +1,19 @@
+{
+  "targetUrl": "https://jjettas.com/",
+  "routes": [
+    { "path": "/", "name": "Home", "theme": "home" },
+    { "path": "/on-field", "name": "On-Field", "theme": "on-field" },
+    { "path": "/off-field", "name": "Off-Field", "theme": "off-field" },
+    { "path": "/foundation", "name": "Foundation", "theme": "foundation" },
+    { "path": "/partnerships", "name": "Partnerships", "theme": "partnerships" },
+    { "path": "/journal", "name": "Journal", "theme": "journal" },
+    { "path": "/inquiries", "name": "Inquiries", "theme": "inquiries" },
+    { "path": "/privacy", "name": "Privacy", "theme": "legal" },
+    { "path": "/terms", "name": "Terms", "theme": "legal" }
+  ],
+  "breakpoints": [
+    { "name": "desktop", "width": 1440, "height": 900 },
+    { "name": "tablet", "width": 1024, "height": 768 },
+    { "name": "mobile", "width": 390, "height": 844 }
+  ]
+}

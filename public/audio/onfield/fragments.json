@@ -1,0 +1,242 @@
+{
+  "fragments": [
+    {
+      "file": "voice-01.m4a",
+      "duration": 9.25,
+      "kind": "signature",
+      "source": "the-catch",
+      "text": "He's given time. He wants Jefferson. Climbs the ladder. Oh my goodness! Justin!"
+    },
+    {
+      "file": "voice-02.m4a",
+      "duration": 8.85,
+      "kind": "signature",
+      "source": "the-peach-bowl",
+      "text": "The slant, the catch, and the touchdown for Justin Jefferson. Touchdown pass to Jefferson."
+    },
+    {
+      "file": "voice-03.m4a",
+      "duration": 8.5,
+      "kind": "signature",
+      "source": "offensive-player-of-the-year",
+      "text": "Now, check out these game-defining players, the finalists for NFL Offensive Player of the Year."
+    },
+    {
+      "file": "voice-04.m4a",
+      "duration": 7.85,
+      "kind": "signature",
+      "source": "the-rookie-record",
+      "text": "He's got a wide open Justin Jefferson, and there is your new single-season..."
+    },
+    {
+      "file": "voice-05.m4a",
+      "duration": 6.6,
+      "kind": "signature",
+      "source": "pro-bowl-selection",
+      "text": "We need that money. We need that bread, man. We need that bread, dawg."
+    },
+    {
+      "file": "voice-06.m4a",
+      "duration": 7.9,
+      "kind": "signature",
+      "source": "the-catch",
+      "text": "Two minutes left in a four-point game. Kirk Cousins back to throw on fourth and eight."
+    },
+    {
+      "file": "voice-07.m4a",
+      "duration": 8.6,
+      "kind": "signature",
+      "source": "the-peach-bowl",
+      "text": "Burrow dodges the rush. Going for Jefferson again. It's another touchdown."
+    },
+    {
+      "file": "voice-08.m4a",
+      "duration": 7.4,
+      "kind": "signature",
+      "source": "offensive-player-of-the-year",
+      "text": "Justin Jefferson, one bad man. Dive for the end zone, touchdown!"
+    },
+    {
+      "file": "voice-09.m4a",
+      "duration": 7.75,
+      "kind": "signature",
+      "source": "the-rookie-record",
+      "text": "Minnesota Viking receiving yard record holder, passing the great Randy Moss."
+    },
+    {
+      "file": "voice-10.m4a",
+      "duration": 6.75,
+      "kind": "signature",
+      "source": "pro-bowl-selection",
+      "text": "Look at it, the entire NFC team has left the bench."
+    },
+    {
+      "file": "voice-11.m4a",
+      "duration": 6.6,
+      "kind": "signature",
+      "source": "the-peach-bowl",
+      "text": "Watch the little hesitation by Jefferson. Just a little freeze."
+    },
+    {
+      "file": "voice-12.m4a",
+      "duration": 7.65,
+      "kind": "signature",
+      "source": "offensive-player-of-the-year",
+      "text": "And the 2022 AP Offensive Player of the Year is..."
+    },
+    {
+      "file": "voice-13.m4a",
+      "duration": 5.95,
+      "kind": "signature",
+      "source": "the-catch",
+      "text": "That has been replaced by Justin Jefferson's catch."
+    },
+    {
+      "file": "voice-14.m4a",
+      "duration": 5.6,
+      "kind": "signature",
+      "source": "offensive-player-of-the-year",
+      "text": "Justin Jefferson."
+    },
+    {
+      "file": "voice-15.m4a",
+      "duration": 8.62,
+      "kind": "signature",
+      "source": "the-rookie-record",
+      "text": "Justin Jefferson eats space. He chews up the corner, the space between the wide receiver..."
+    },
+    {
+      "file": "voice-16.m4a",
+      "duration": 6.3,
+      "kind": "signature",
+      "source": "the-peach-bowl",
+      "text": "Another touchdown. Jefferson hangs on this time."
+    },
+    {
+      "file": "voice-17.m4a",
+      "duration": 7.4,
+      "kind": "signature",
+      "source": "pro-bowl-selection",
+      "text": "We're going blue 11, this is a double pass. Gonna run a wide route and then throw it, okay?"
+    },
+    {
+      "file": "voice-18.m4a",
+      "duration": 8.1,
+      "kind": "signature",
+      "source": "offensive-player-of-the-year",
+      "text": "First and foremost, I got to thank the man upstairs. Without him, none of this would be possible."
+    },
+    {
+      "file": "replay-01.m4a",
+      "duration": 28.61,
+      "kind": "replay",
+      "source": "03-deep-separation"
+    },
+    {
+      "file": "replay-02.m4a",
+      "duration": 17.11,
+      "kind": "replay",
+      "source": "08-end-zone-td-dance"
+    },
+    {
+      "file": "replay-03.m4a",
+      "duration": 20.15,
+      "kind": "replay",
+      "source": "10-deep-td-greedy-time"
+    },
+    {
+      "file": "replay-04.m4a",
+      "duration": 16.25,
+      "kind": "replay",
+      "source": "16-denzel-ward-td"
+    },
+    {
+      "file": "replay-05.m4a",
+      "duration": 18.18,
+      "kind": "replay",
+      "source": "18-50-yard-strike"
+    },
+    {
+      "file": "replay-06.m4a",
+      "duration": 21.25,
+      "kind": "replay",
+      "source": "21-breathtaking-catch"
+    },
+    {
+      "file": "replay-07.m4a",
+      "duration": 17.16,
+      "kind": "replay",
+      "source": "23-chicago-td-dance"
+    },
+    {
+      "file": "replay-08.m4a",
+      "duration": 18.25,
+      "kind": "replay",
+      "source": "29-reach-up-td"
+    },
+    {
+      "file": "replay-09.m4a",
+      "duration": 25.31,
+      "kind": "replay",
+      "source": "32-dude-is-unreal"
+    },
+    {
+      "file": "replay-10.m4a",
+      "duration": 17.11,
+      "kind": "replay",
+      "source": "33-jefferson-time-td"
+    },
+    {
+      "file": "replay-11.m4a",
+      "duration": 13.96,
+      "kind": "replay",
+      "source": "35-moss-record"
+    },
+    {
+      "file": "replay-12.m4a",
+      "duration": 20.74,
+      "kind": "replay",
+      "source": "36-52-yard-td"
+    },
+    {
+      "file": "replay-13.m4a",
+      "duration": 15.53,
+      "kind": "replay",
+      "source": "37-unbelievable-catch"
+    },
+    {
+      "file": "replay-14.m4a",
+      "duration": 20.34,
+      "kind": "replay",
+      "source": "38-deep-ball-td"
+    },
+    {
+      "file": "voice-19.m4a",
+      "duration": 2.2,
+      "kind": "quote",
+      "source": "browns-london-presser",
+      "text": "18 is going to go out there and make a play."
+    },
+    {
+      "file": "voice-20.m4a",
+      "duration": 3.6,
+      "kind": "quote",
+      "source": "browns-london-presser",
+      "text": "Being doubled, being tripled, single coverage, it doesn't matter."
+    },
+    {
+      "file": "voice-21.m4a",
+      "duration": 2.56,
+      "kind": "quote",
+      "source": "browns-london-presser",
+      "text": "This team didn't flinch at all."
+    },
+    {
+      "file": "voice-22.m4a",
+      "duration": 1.86,
+      "kind": "quote",
+      "source": "browns-london-presser",
+      "text": "Our fans are the best in the league."
+    }
+  ]
+}
